@@ -1,5 +1,11 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0284c7,100:0369a1&height=180&text=LEONARD%20VOICU&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=CYBERSECURITY%20%26%20SOC%20ANALYST%20%7C%20ISC2%20CC&descFontSize=16&descColor=38bdf8&descAlignY=65&stroke=38bdf8&strokeWidth=2" width="100%" />
+</div>
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%3E_++Real-Time+Threat+Monitoring+%26+SIEM+(Sentinel);%3E_++Incident+Response+%26+Alert+Triage+(DFIR-IRIS);%3E_++Sysmon%2C+LOLBins+%26+Attack+Chaining+(MITRE);%3E_++Attack+Surface+Management+%26+Threat+Intelligence" alt="Cybersecurity Telemetry" />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xLeo20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f172a&title_color=38bdf8&icon_color=0284c7&text_color=94a3b8" alt="GitHub Stats" />
 </div>
 # Hi there, I'm Leonard Voicu 👋
 
