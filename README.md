@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi there, I'm Leonard Voicu 👋
 
-<!--
-**xLeo20/xLeo20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛡️ **Cybersecurity & SOC Analyst | BSc Economic Informatics | MSc Student in Security & Applied Logic**  
+Certified in Cybersecurity (**ISC2 CC**) with hands-on operational experience in 24/7 SOC environments. Focused on real-time threat monitoring, alert triage (Microsoft Sentinel), incident response (DFIR-IRIS), and threat hunting, combined with practical software engineering skills (Python, MERN).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Featured Projects
+* **[SME Cyber Exposure Dashboard](https://github.com/xLeo20/sme-cyber-exposure-dashboard)**  
+  A full-stack Attack Surface Management (ASM) and Threat Intelligence dashboard. Integrates Shodan API, dynamic CVSS-based risk scoring, and real-time mitigation advice to help SMEs manage external exposures.
+* **[Enterprise IT Operations & Helpdesk Platform](https://github.com/xLeo20/Aplicatie-licenta)**  
+  Full-stack enterprise ticketing architecture featuring secure role-based access control (RBAC), JWT authentication, and automated support workflows.
+* **[Remote Network Surveillance Engine](https://github.com/xLeo20/RemoteViewer-Retele-)**  
+  Network-level application demonstrating socket programming, client-server communications, and traffic handling in Python.
+
+---
+
+### 🛠️ Technical Toolkit & Security Competencies
+* **Security Operations & SIEM:** Microsoft Sentinel, DFIR-IRIS, Sysmon & Event Logs (4688), Alert Triage & Incident Lifecycle, MITRE ATT&CK Mapping
+* **Threat Hunting & Forensics:** Email Threat Analysis (SPF/DKIM/DMARC, BEC, HTML Smuggling), LOLBins & AMSI Tampering, Threat Intelligence (Shodan OSINT), Nmap
+* **Network & Systems Defense:** TCP/IP Suite, Subnetting (VLSM/FLSM), Firewalls, IDS/IPS, VPNs, OS Hardening (Linux, Windows)
+* **Governance & Standards:** NIST Framework, ISO 27001, CIP/OT Foundations, IAM, PKI
+* **Development & Scripting:** Python, JavaScript (Node.js, Express, React), Java, C++, SQL, MongoDB, Git
+
+---
+
+### 🌐 Connect With Me
+* **LinkedIn:** [linkedin.com/in/leonardvoicu25](https://www.linkedin.com)
+* **Location:** Bucharest, Romania
