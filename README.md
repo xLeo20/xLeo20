@@ -1,9 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,6,11&height=220&section=header&text=LEONARD%20VOICU&fontSize=45&fontColor=ffffff&desc=Cybersecurity%20%26%20SOC%20Analyst&descSize=20&descColor=38bdf8" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=%3E_++Real-Time+Threat+Monitoring+%26+SIEM+(Sentinel);%3E_++Incident+Response+%26+Alert+Triage+(DFIR-IRIS);%3E_++Sysmon%2C+LOLBins+%26+Attack+Chaining+(MITRE);%3E_++Attack+Surface+Management+%26+Threat+Intelligence" alt="Cybersecurity Telemetry" />
+![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=LEONARD%20VOICU&fontSize=45&fontColor=ffffff&desc=Cybersecurity%20%26%20SOC%20Analyst&descSize=20&descColor=38bdf8&v=2)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=xLeo20&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Real-Time+Threat+Monitoring+(Sentinel);Incident+Response+%26+Alert+Triage+(DFIR);Attack+Surface+Management&v=2)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=xLeo20&show_icons=true&theme=tokyonight&hide_border=true&v=2)
+
 </div>
 
 <br />
