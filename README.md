@@ -1,19 +1,22 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=LEONARD%20VOICU&fontSize=45&fontColor=ffffff&desc=Cybersecurity%20%26%20SOC%20Analyst&descSize=20&descColor=38bdf8&v=2)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Real-Time+Threat+Monitoring+(Sentinel);Incident+Response+%26+Alert+Triage+(DFIR);Attack+Surface+Management&v=2)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=xLeo20&show_icons=true&theme=tokyonight&hide_border=true&v=2)
-
+  <h1>🛡️ LEONARD VOICU 🛡️</h1>
+  <h3>Cybersecurity & SOC Analyst | Master's Student in Security & Applied Logic</h3>
+  <br />
+  
+  <!-- Badges -->
+  <a href="https://www.linkedin.com/in/leonardvoicu25">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <img src="https://img.shields.io/badge/ISC2_CC-Certified-005B9A?style=for-the-badge&logo=isc2&logoColor=white" alt="ISC2 CC" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Sentinel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
 </div>
 
 <br />
 
-# Hi there, I'm Leonard Voicu 👋
+# Hi there 👋
 
-🛡️ **Cybersecurity & SOC Analyst | BSc Economic Informatics | MSc Student in Security & Applied Logic**  
-Certified in Cybersecurity (**ISC2 CC**) with hands-on operational experience in 24/7 SOC environments. Focused on real-time threat monitoring, alert triage (Microsoft Sentinel), incident response (DFIR-IRIS), and threat hunting, combined with practical software engineering skills (Python, MERN).
+I am a Cybersecurity professional certified in **ISC2 CC** with hands-on operational experience in 24/7 SOC environments. My focus bridges proactive network defense, real-time threat monitoring (SIEM), incident triage (DFIR), and modern full-stack development.
 
 ---
 
@@ -28,14 +31,9 @@ Certified in Cybersecurity (**ISC2 CC**) with hands-on operational experience in
 ---
 
 ### 🛠️ Technical Toolkit & Security Competencies
+
 * **Security Operations & SIEM:** Microsoft Sentinel, DFIR-IRIS, Sysmon & Event Logs (4688), Alert Triage & Incident Lifecycle, MITRE ATT&CK Mapping
 * **Threat Hunting & Forensics:** Email Threat Analysis (SPF/DKIM/DMARC, BEC, HTML Smuggling), LOLBins & AMSI Tampering, Threat Intelligence (Shodan OSINT), Nmap
 * **Network & Systems Defense:** TCP/IP Suite, Subnetting (VLSM/FLSM), Firewalls, IDS/IPS, VPNs, OS Hardening (Linux, Windows)
 * **Governance & Standards:** NIST Framework, ISO 27001, CIP/OT Foundations, IAM, PKI
 * **Development & Scripting:** Python, JavaScript (Node.js, Express, React), Java, C++, SQL, MongoDB, Git
-
----
-
-### 🌐 Connect With Me
-* **LinkedIn:** [linkedin.com/in/leonardvoicu25](https://www.linkedin.com)
-* **Location:** Bucharest, Romania
