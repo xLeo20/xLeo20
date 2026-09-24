@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,50:0284c7,100:0369a1&height=180&text=LEONARD%20VOICU&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=CYBERSECURITY%20%26%20SOC%20ANALYST%20%7C%20ISC2%20CC&descFontSize=16&descColor=38bdf8&descAlignY=65&stroke=38bdf8&strokeWidth=2" width="100%" />
+</div>
 # Hi there, I'm Leonard Voicu 👋
 
 🛡️ **Cybersecurity & SOC Analyst | BSc Economic Informatics | MSc Student in Security & Applied Logic**  
