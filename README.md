@@ -1,4 +1,8 @@
 <div align="center">
+  <!-- Imaginea de Banner (Cyber Theme) -->
+  <img src="https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?q=80&w=1200&auto=format&fit=crop" width="100%" alt="Cybersecurity Banner" />
+  <br /><br />
+
   <h1>🛡️ LEONARD VOICU 🛡️</h1>
   <h3>Cybersecurity & SOC Analyst | Master's Student in Security & Applied Logic</h3>
   <br />
